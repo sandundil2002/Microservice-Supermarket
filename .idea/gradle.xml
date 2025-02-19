@@ -4,6 +4,11 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/Order-Service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Order-Service" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>
